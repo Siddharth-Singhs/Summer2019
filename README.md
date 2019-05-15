@@ -4,9 +4,9 @@
 
 ## Goals
 <br>To utlise the summer vaccation to do productive work.
-- Improve the Datastructure and Algorithm.[]
-- Work on Computer Vision.[]
-- Complete the daily ojective.[]
+- Improve the Datastructure and Algorithm.[ ]
+- Work on Computer Vision.[ ]
+- Complete the daily ojective.[ ]
 
 More task will added as soon as possile.
 
