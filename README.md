@@ -21,7 +21,8 @@ More task will added as soon as possible in details.
 - Working on YoloV3 for Captcha Detection.
 - Initial Accuracy is coming less than 1%.
 - After tuning some parameter some error has generated in the model.
-- Instead of placing a bounding box on the character of captcha it is just destroying the - images.
+- Instead of placing a bounding box on the character of captcha it is just destroying the images.
+![Alt Text](https://github.com/Siddharth-Singhs/Summer2019/blob/master/Images/Day1-1.png)
 #### Interview Preparation:
 No Progress Today.
 
