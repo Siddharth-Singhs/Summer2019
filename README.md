@@ -24,7 +24,7 @@ More task will added as soon as possible in details.
 - Now Model has started recognizing a few characters from the word.So there is chance of Improvement.
 - New Task has been assigned for Scrapping the data from the website.
 
-![Alt Text](https://github.com/Siddharth-Singhs/Summer2019/blob/master/Images/Day2-1.png)
+![Alt Text](https://raw.githubusercontent.com/Siddharth-Singhs/Summer2019/master/Images/Day2-1.png)
 
 #### Interview Preparation:
 No Progress Today
@@ -38,7 +38,7 @@ No Progress Today
 - After tuning some parameter some error has generated in the model.
 - Instead of placing a bounding box on the character of captcha it is just destroying the images.
 
-![Alt Text](https://github.com/Siddharth-Singhs/Summer2019/blob/master/Images/Day1-1.png)
+![Alt Text](https://raw.githubusercontent.com/Siddharth-Singhs/Summer2019/master/Images/Day1-1.png)
 
 #### Interview Preparation:
 No Progress Today.
