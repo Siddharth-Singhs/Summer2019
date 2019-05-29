@@ -11,11 +11,24 @@
 - Increase the model accuracy till week end. [ ]
 - Deadline of Scrapping the data is on 30 May 2019 [ ]
 
+
 More task will added as soon as possible in details.
 
 ## Course:
 
 ## Log:
+
+### Day3:
+#### Intern Work:
+- Used Selenium to scrape the data from the website. (Can't share the website details due to office privacy policy)
+- Used pretrained machine learning model with the selenium.
+- Tomorrow is the deadline for Scrapping the data. Scrapping part is completed just creating a database has been left for storing the scraped data.
+- Tuned the configuration file of YoloV3 for increasing the accuracy of Captcha Detection.
+
+#### Interview Preparation
+No Progress Today
+
+For All who need to step in life they need to first wake up.
 
 ### Day2:
 #### Intern Work:
