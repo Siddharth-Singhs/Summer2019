@@ -9,6 +9,7 @@
 - Work on Computer Vision.[ ]
 - Complete the daily objective.[ ]
 - Increase the model accuracy till week end. [ ]
+- Complete the database part for storing the scrapped data[ ]
 - Deadline of Scrapping the data is on 30 May 2019 [X]
 
 
@@ -17,6 +18,17 @@ More task will added as soon as possible in details.
 ## Course:
 
 ## Log:
+
+### Day4:
+#### Intern Work:
+- Created the MySQL Database for the storing the scraped data.
+- Created the resumeable feature in scrapping script so something due to network failure we don't have scrape again whole data.
+- No Improvement in the model accuracy.I thinks we need to change the approach for solving this type of problem.
+- Used Tesseract OCR for testing some images.But OCR did not able to detect the image.
+- Some part of work is left in creating the database which we will be completed by tomorrow.
+
+#### Interview Preparation
+No Progress Today
 
 ### Day3:
 #### Intern Work:
