@@ -32,7 +32,7 @@ No Progress Today
 
 ### Day3:
 #### Intern Work:
-- Used Selenium to scrape the data from the website. (Can't share the website details due to office privacy policy)
+- Used Selenium to scrape the data from the website. (Can't share the website details due to Company privacy policy)
 - Used pretrained machine learning model with the selenium.
 - Tomorrow is the deadline for Scrapping the data. Scrapping part is completed just creating a database has been left for storing the scraped data.
 - Tuned the configuration file of YoloV3 for increasing the accuracy of Captcha Detection.
