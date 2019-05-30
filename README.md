@@ -9,7 +9,7 @@
 - Work on Computer Vision.[ ]
 - Complete the daily objective.[ ]
 - Increase the model accuracy till week end. [ ]
-- Deadline of Scrapping the data is on 30 May 2019 [ ]
+- Deadline of Scrapping the data is on 30 May 2019 [X]
 
 
 More task will added as soon as possible in details.
@@ -27,6 +27,7 @@ More task will added as soon as possible in details.
 - Model was able to detect 2 images correctly out of 201 images.
 - Model achieve approx 1% of accuracy.
 
+![Alt Text](https://raw.githubusercontent.com/Siddharth-Singhs/Summer2019/master/Images/Day3-1.png)
 #### Interview Preparation
 No Progress Today
 
