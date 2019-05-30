@@ -21,10 +21,10 @@ More task will added as soon as possible in details.
 
 ### Day4:
 #### Intern Work:
-- Created the MySQL Database for the storing the scraped data.
-- Created the resumeable feature in scrapping script so something due to network failure we don't have scrape again whole data.
-- No Improvement in the model accuracy.I thinks we need to change the approach for solving this type of problem.
-- Used Tesseract OCR for testing some images.But OCR did not able to detect the image.
+- Created the MySQL Database for storing the scraped data.
+- Created the resumable feature in scrapping script so something due to network failure we don't have scrape again whole data.
+- No Improvement in the model accuracy. I think we need to change the approach to solving this type of problem.
+- Used Tesseract OCR for testing some images. But OCR was not able to detect the image.
 - Some part of work is left in creating the database which we will be completed by tomorrow.
 
 #### Interview Preparation
