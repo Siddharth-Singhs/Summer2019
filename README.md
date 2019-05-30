@@ -24,6 +24,8 @@ More task will added as soon as possible in details.
 - Used pretrained machine learning model with the selenium.
 - Tomorrow is the deadline for Scrapping the data. Scrapping part is completed just creating a database has been left for storing the scraped data.
 - Tuned the configuration file of YoloV3 for increasing the accuracy of Captcha Detection.
+- Model was able to detect 2 images correctly out of 201 images.
+- Model achieve approx 1% of accuracy.
 
 #### Interview Preparation
 No Progress Today
