@@ -5,12 +5,12 @@
 
 ## Goals
 <br>To utilise the summer vacation to do productive work.
-- Improve the Data structure and Algorithm.[ ]
-- Work on Computer Vision.[ ]
-- Complete the daily objective.[ ]
-- Increase the model accuracy till week end. [ ]
-- Complete the database part for storing the scrapped data [x]
-- Deadline of Scrapping the data is on 30 May 2019 [x]
+- Improve the Data structure and Algorithm.- [ ]
+- Work on Computer Vision.- [ ]
+- Complete the daily objective.- [ ]
+- Increase the model accuracy till week end.- [ ]
+- Complete the database part for storing the scrapped data - [x]
+- Deadline of Scrapping the data is on 30 May 2019 - [x]
 
 
 More task will added as soon as possible in details.
