@@ -9,6 +9,7 @@
 - Work on Computer Vision. &#9744;
 - Complete the daily objective. &#9744;
 - Increase the model accuracy till week end. &#9744;
+- Deploy the script to Amazon Web Services. &#9744;
 - Complete the database part for storing the scrapped data. &#9745;
 - Deadline of Scrapping the data is on 30 May 2019. &#9745;
 
