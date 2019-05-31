@@ -5,12 +5,13 @@
 
 ## Goals
 <br>To utilise the summer vacation to do productive work.
-- Improve the Data structure and Algorithm.[ ]
-- Work on Computer Vision.[ ]
-- Complete the daily objective.[ ]
-- Increase the model accuracy till week end. [ ]
-- Complete the database part for storing the scrapped data[ ]
-- Deadline of Scrapping the data is on 30 May 2019 [X]
+- Improve the Data structure and Algorithm. &#9744;
+- Work on Computer Vision. &#9744;
+- Complete the daily objective. &#9744;
+- Increase the model accuracy till week end. &#9744;
+- Deploy the script to Amazon Web Services. &#9744;
+- Complete the database part for storing the scrapped data. &#9745;
+- Deadline of Scrapping the data is on 30 May 2019. &#9745;
 
 
 More task will added as soon as possible in details.
@@ -18,6 +19,17 @@ More task will added as soon as possible in details.
 ## Course:
 
 ## Log:
+
+### Day5:
+#### Intern Work:
+- Dealt with every edge conditions of automation scripts.
+- Completed the work left for MySQL Database. Now every data from the scrapping is stored perfectly.
+- Deploying the automation script on Amazon Web Service is left.
+- No improvement in model accuracy.Thinking to try a new approach to solving that problem.
+
+#### Interview Preparation
+No Progress Today
+
 
 ### Day4:
 #### Intern Work:
