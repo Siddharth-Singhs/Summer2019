@@ -8,7 +8,7 @@
 - Improve the Data structure and Algorithm. &#9744;
 - Work on Computer Vision. &#9744;
 - Complete the daily objective. &#9744;
-- Increase the model accuracy till week end. &#9744;
+- Increase the model accuracy till week end. &#9745;
 - Deploy the script to Amazon Web Services. &#9744;
 - Complete the database part for storing the scrapped data. &#9745;
 - Deadline of Scrapping the data is on 30 May 2019. &#9745;
@@ -19,6 +19,15 @@ More task will added as soon as possible in details.
 ## Course:
 
 ## Log:
+### Day6:
+#### Intern Work:
+- Now in automation script JSON file can be also given as input.
+- Worked on one more scrapping task just to check the model performance
+- Now model accuracy has improved quite a lot to 87%.
+- I think so just tuning the parameter the accuracy can be improved a lot.
+
+#### Interview Preparation
+No Progress Today.
 
 ### Day5:
 #### Intern Work:
