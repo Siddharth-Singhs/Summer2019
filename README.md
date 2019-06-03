@@ -19,6 +19,14 @@ More task will added as soon as possible in details.
 ## Course:
 
 ## Log:
+
+### Day7:(Sunday)
+#### Extra Work(Previous Intern Work):
+- Some work was left from previous intern.
+- Created a major project on machine learning based on Pokemon Battles.
+- In which we have a model to predict the outcome of Pokemon Battles.
+#### Interview Preparation:
+No Progress Today
 ### Day6:
 #### Intern Work:
 - Now in automation script JSON file can be also given as input.
