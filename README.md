@@ -20,6 +20,16 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 9:
+
+#### Intern Work:
+- Integrated the scraping script with the Machine learning model.
+- The machine learning model saved quite lot of time in scraping.
+- Worked on the multi-threading part to decrease the running time of script.
+
+#### Interview Preparation:
+- No progress today.
+
 ### Day 8:
 #### Intern Work:
 - Worked on new Scrapping Script using Selenium and Beautifulsoup.
