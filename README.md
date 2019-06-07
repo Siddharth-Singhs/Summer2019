@@ -20,6 +20,13 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 11:
+#### Intern Work
+- Still working on multithreading problem in Scraping Script.Just few edges cases are left
+
+#### Interview Preparation:
+- No Progress Today
+
 ### Day 10:
 #### Intern Work:
 - Dealt with multithreading problem in scraping script.
