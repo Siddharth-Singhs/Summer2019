@@ -22,7 +22,7 @@ More task will added as soon as possible in details.
 
 ### Day 11:
 #### Intern Work
-- Still working on multithreading problem in Scraping Script.Just few edges are left
+- Still working on multithreading problem in Scraping Script.Just few edges cases are left
 
 #### Interview Preparation:
 - No Progress Today
