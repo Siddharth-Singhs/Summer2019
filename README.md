@@ -23,6 +23,7 @@ More task will added as soon as possible in details.
 ### Day 12:
 #### Intern Work:
 - Still trying to figure out multithreading part script.Browser handling is quite difficult in multithreading of Scraping Script.
+
 #### Extra Work(Previous Intern Work):
 - Finalise the two major projects i.e Restaurant Rating Prediction using Zomato Dataset and Box office Collection prediction using movie dataset
 
