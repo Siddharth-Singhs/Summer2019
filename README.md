@@ -20,6 +20,18 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 15:
+#### Intern Work:
+- Completed two scraping script and connected the script to MySQL database.
+
+### Day 14:(Sunday)
+#### 
+- Just watched the videos of Trees. 
+
+### Day 13:(Saturday)
+#### Hackathon:
+- Working on the proposal for Hackathon.
+
 ### Day 12:
 #### Intern Work:
 - Still trying to figure out multithreading part script.Browser handling is quite difficult in multithreading of Scraping Script.
