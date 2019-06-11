@@ -20,6 +20,13 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 16:
+#### Intern Work:
+- Finally completed the multithreading part in webscraping script.
+
+#### Interview Preparation:
+--
+
 ### Day 15:
 #### Intern Work:
 - Completed two scraping script and connected the script to MySQL database.
