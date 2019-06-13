@@ -20,14 +20,30 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 17:
+
+#### Intern Work:
+
+#### Interview Preparation:
+
+- Completed the recursion video series.
+
 ### Day 16:
+
 #### Intern Work:
 - Finally completed the multithreading part in webscraping script.
 
 #### Interview Preparation:
---
+
+### Day 16:
+#### Intern Work:
+- Working on new Scraping Script.
+
+#### Interview Preparation:
+- No Progress Today
 
 ### Day 15:
+
 #### Intern Work:
 - Completed two scraping script and connected the script to MySQL database.
 
