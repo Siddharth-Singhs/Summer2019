@@ -6,7 +6,7 @@
 ## Goals
 <br>To utilise the summer vacation to do productive work.
 - Improve the Data structure and Algorithm. &#9744;
-- Work on Computer Vision. &#9744;
+- Complete the tress till the week end. &#9744;
 - Complete the daily objective. &#9744;
 - Increase the model accuracy till week end. &#9745;
 - Deploy the script to Amazon Web Services. &#9744;
