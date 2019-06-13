@@ -20,20 +20,22 @@ More task will added as soon as possible in details.
 
 ## Log:
 
-### Day 17:
+### Day 18:
 
 #### Intern Work:
+- Worked on payment automation and corrected the errors present in script.
 
 #### Interview Preparation:
 
 - Completed the recursion video series.
 
-### Day 16:
+### Day 17:
 
 #### Intern Work:
 - Finally completed the multithreading part in webscraping script.
 
 #### Interview Preparation:
+- No progress Today
 
 ### Day 16:
 #### Intern Work:
