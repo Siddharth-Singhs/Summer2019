@@ -20,6 +20,14 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 19:
+
+#### Intern Work:
+
+
+#### Interview Preparation:
+
+
 ### Day 18:
 
 #### Intern Work:
