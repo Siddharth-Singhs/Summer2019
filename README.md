@@ -23,9 +23,11 @@ More task will added as soon as possible in details.
 ### Day 19:
 
 #### Intern Work:
-
+- Fine tuned the script.
+- Studying about RCN(Recursive Cortical Network)
 
 #### Interview Preparation:
+- No Progress Today
 
 
 ### Day 18:
