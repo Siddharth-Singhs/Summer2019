@@ -20,6 +20,12 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+
+### Day 20(Saturday):
+
+#### Interview Preparation:
+- Watched the videos related to trees.(Basically Genric Trees)
+
 ### Day 19:
 
 #### Intern Work:
