@@ -20,6 +20,19 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 22:
+
+### Intern Work:
+- Working on building gradle file for python scripts.
+
+### Interview Preparation:
+- Solved the questions related Binary Tree and BST.
+
+### Day 21(Sunday):
+
+#### Work PLan
+- To do as much questions related for data structures for Campus Placement.
+
 
 ### Day 20(Saturday):
 
