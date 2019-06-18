@@ -20,6 +20,15 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 23:
+
+### Intern Work:
+- Created a package which includes all the script and can be downloaded using pip.
+- Since Repo is private,it has to be provided ssh key for using the package.
+
+### Interview Preparation:
+-
+
 ### Day 22:
 
 ### Intern Work:
