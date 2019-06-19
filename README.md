@@ -20,6 +20,11 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 24(Holiday):
+
+#### Interview Preparation:
+- Almost completed the important questions related to Tree in GFG.
+
 ### Day 23:
 
 ### Intern Work:
@@ -27,14 +32,14 @@ More task will added as soon as possible in details.
 - Since Repo is private,it has to be provided ssh key for using the package.
 
 ### Interview Preparation:
--
+- Solved the important questions of trees in GFG.
 
 ### Day 22:
 
-### Intern Work:
+#### Intern Work:
 - Working on building gradle file for python scripts.
 
-### Interview Preparation:
+#### Interview Preparation:
 - Solved the questions related Binary Tree and BST.
 
 ### Day 21(Sunday):
