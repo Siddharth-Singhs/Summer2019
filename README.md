@@ -20,6 +20,15 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 25:
+
+#### Intern Work:
+- The python package is almost completed,just little changes are left.
+- This python package contains five machine learning models for solving different problems.
+
+#### Interview Preparation:
+- 
+
 ### Day 24(Holiday):
 
 #### Interview Preparation:
