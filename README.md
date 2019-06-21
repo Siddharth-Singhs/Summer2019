@@ -20,6 +20,14 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 26:
+
+#### Intern Work:
+- Connecting the script to google cloud storage for uploading the downloaded file.
+
+### Interview Preparation:
+-
+
 ### Day 25:
 
 #### Intern Work:
@@ -27,7 +35,7 @@ More task will added as soon as possible in details.
 - This python package contains five machine learning models for solving different problems.
 
 #### Interview Preparation:
-- 
+- Solved almost all the questions of trees(Important Questions)
 
 ### Day 24(Holiday):
 
