@@ -24,9 +24,10 @@ More task will added as soon as possible in details.
 
 #### Intern Work:
 - Connecting the script to google cloud storage for uploading the downloaded file.
+- Connecting the script to the Python Package. 
 
 ### Interview Preparation:
--
+- No Progress Today
 
 ### Day 25:
 
