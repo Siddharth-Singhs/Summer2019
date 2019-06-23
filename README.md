@@ -20,6 +20,21 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 28(Sunday):
+
+#### Interview Preparation:
+- 
+
+
+### Day 27:
+
+#### Intern Work:
+- The script was deployed on the AWS EC2.
+- New package version is released i.e 1.0.2
+
+#### Interview Preparation:
+- No Progress Today
+
 ### Day 26:
 
 #### Intern Work:
