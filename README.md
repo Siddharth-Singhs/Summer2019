@@ -19,11 +19,18 @@ More task will added as soon as possible in details.
 ## Course:
 
 ## Log:
+### Day 29:
+#### Intern Work:
+- Integrated the new script with the package.
+- Updated the package logging.
+
+#### Interview Preparation:
+-
 
 ### Day 28(Sunday):
 
 #### Interview Preparation:
-- 
+- Watched the vidoes related Hashmaps and Tries. 
 
 
 ### Day 27:
