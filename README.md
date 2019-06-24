@@ -22,7 +22,7 @@ More task will added as soon as possible in details.
 ### Day 29:
 #### Intern Work:
 - Integrated the new script with the package.
-- Updated the package logging.
+- Updated the package and added the some logging.
 
 #### Interview Preparation:
 -
