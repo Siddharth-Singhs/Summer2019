@@ -19,13 +19,22 @@ More task will added as soon as possible in details.
 ## Course:
 
 ## Log:
+### Day 30:
+#### Intern Work:
+- Now Script can send the message to slack and emails whenever error is generated on the server.
+- Adding the logging to the script, and it notify the user through slack message whether script is running or not.
+- New package version is released i.e 1.0.3 
+
+#### Interview Preparation:
+- 
+
 ### Day 29:
 #### Intern Work:
 - Integrated the new script with the package.
 - Updated the package and added the some logging.
 
 #### Interview Preparation:
--
+- Watched the videos related to Heap.
 
 ### Day 28(Sunday):
 
