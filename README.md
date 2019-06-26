@@ -6,10 +6,11 @@
 ## Goals
 <br>To utilise the summer vacation to do productive work.
 - Improve the Data structure and Algorithm. &#9744;
-- Complete the tress till the week end. &#9744;
+- Give atleast 4 hours to data structure &#9744
+- Complete the tress till the week end. &#9745;
 - Complete the daily objective. &#9744;
 - Increase the model accuracy till week end. &#9745;
-- Deploy the script to Amazon Web Services. &#9744;
+- Deploy the script to Amazon Web Services. &#9745;
 - Complete the database part for storing the scrapped data. &#9745;
 - Deadline of Scrapping the data is on 30 May 2019. &#9745;
 
@@ -19,6 +20,14 @@ More task will added as soon as possible in details.
 ## Course:
 
 ## Log:
+
+### Day 31:
+#### Intern Work:
+-
+
+#### Interview Preparation :
+- 
+
 ### Day 30:
 #### Intern Work:
 - Now Script can send the message to slack and emails whenever error is generated on the server.
@@ -26,7 +35,7 @@ More task will added as soon as possible in details.
 - New package version is released i.e 1.0.3 
 
 #### Interview Preparation:
-- 
+- Solved the questions related heap and hashmap
 
 ### Day 29:
 #### Intern Work:
