@@ -24,10 +24,11 @@ More task will added as soon as possible in details.
 ### Day 31:
 
 #### Intern Work:
--
+- Fixed the bugs of Script and packages.
+- New Version of package is released 1.0.4 includes new model. improve the slack notifier.
 
 #### Interview Preparation :
-- 
+- Solved the questions of heap and hashmap in GFG.
 
 ### Day 30:
 #### Intern Work:
