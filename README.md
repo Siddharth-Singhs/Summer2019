@@ -21,6 +21,22 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 33:
+
+#### Intern Work:
+-
+
+#### Interview Preparation:
+-
+
+### Day 32:
+#### Intern Work:
+- Worked on the automation of Internet Explorer 10 in payment Script.
+- IE10 is really slow with selenium and many features of selenium does not support IE10.
+
+#### Interview Preparation:
+- No Progress Today
+
 ### Day 31:
 
 #### Intern Work:
