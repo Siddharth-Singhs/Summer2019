@@ -21,13 +21,22 @@ More task will added as soon as possible in details.
 
 ## Log:
 
-### Day 33:
 
+### Day 34:
 #### Intern Work:
+- Work on the cloud storage in python.
+- Implemented the many small features to the script.
+
+#### Interview Prepartion:
 -
+
+### Day 33:
+#### Intern Work:
+- Work on the improvement in multithreading.
+- Fixing the bugs of script.
 
 #### Interview Preparation:
--
+- Watched the videos related DP.
 
 ### Day 32:
 #### Intern Work:
