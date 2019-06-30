@@ -21,6 +21,11 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 35:(Sunday)
+
+#### Interview Preparation:
+-
+
 
 ### Day 34:
 #### Intern Work:
@@ -28,7 +33,7 @@ More task will added as soon as possible in details.
 - Implemented the many small features to the script.
 
 #### Interview Prepartion:
--
+- No Progress Today
 
 ### Day 33:
 #### Intern Work:
