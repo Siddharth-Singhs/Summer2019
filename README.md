@@ -21,10 +21,20 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 36:
+
+#### Intern Work:
+
+- Fixed the bugs related script and multithreading.
+
+#### Interview Preparation:
+
+-
+
 ### Day 35:(Sunday)
 
 #### Interview Preparation:
--
+- Just solved random questions on gfg.
 
 
 ### Day 34:
