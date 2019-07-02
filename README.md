@@ -21,6 +21,14 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 37:
+
+#### Intern Work:
+-
+
+#### Interview Preparation:
+-
+
 ### Day 36:
 
 #### Intern Work:
@@ -29,7 +37,7 @@ More task will added as soon as possible in details.
 
 #### Interview Preparation:
 
--
+- Watched the videos related to DP
 
 ### Day 35:(Sunday)
 
