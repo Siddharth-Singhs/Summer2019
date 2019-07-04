@@ -21,13 +21,29 @@ More task will added as soon as possible in details.
 
 ## Log:
 
-### Day 37:
+### Day 39;
 
 #### Intern Work:
 -
 
 #### Interview Preparation:
 -
+
+### Day 38:
+
+#### Intern Work:
+- Fixed the bugs and added the some functionality.
+
+#### Interview Preparation:
+- No Progress Today
+
+### Day 37:
+
+#### Intern Work:
+- Finally the multithreading part is resolved.
+
+#### Interview Preparation:
+- No Progress Today
 
 ### Day 36:
 
