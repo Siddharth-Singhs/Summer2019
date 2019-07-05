@@ -24,10 +24,10 @@ More task will added as soon as possible in details.
 ### Day 39;
 
 #### Intern Work:
--
+- Fixing the bugs (like running a javascrript problem) and handling the multiple window in multithreading.
 
 #### Interview Preparation:
--
+- Solved the question of Hashing in Interview Bit
 
 ### Day 38:
 
