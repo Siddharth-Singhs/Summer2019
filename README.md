@@ -21,6 +21,13 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Da 40:
+#### Intern Work:
+- Fixing the bug of Script.
+
+#### Interview Preparation:
+- No Progress Today
+
 ### Day 39;
 
 #### Intern Work:
