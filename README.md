@@ -21,6 +21,12 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 42:(Sunday)
+
+#### Interview Preparation:
+-
+
+
 ### Day 41:
 
 #### Intern Work:
