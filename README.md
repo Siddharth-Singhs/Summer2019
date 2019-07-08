@@ -21,7 +21,21 @@ More task will added as soon as possible in details.
 
 ## Log:
 
-### Da 40:
+### Day 42:(Sunday)
+
+#### Interview Preparation:
+- Solved the questions on Interview Bit
+
+
+### Day 41:
+
+#### Intern Work:
+- New Package version 1.0.6 is released.(Support various google cloud storage features is supported)
+
+#### Interview Preparation:
+- No Progress Today.
+
+### Day 40:
 #### Intern Work:
 - Fixing the bug of Script.
 
