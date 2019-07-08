@@ -24,7 +24,7 @@ More task will added as soon as possible in details.
 ### Day 42:(Sunday)
 
 #### Interview Preparation:
--
+- Solved the questions on Interview Bit
 
 
 ### Day 41:
