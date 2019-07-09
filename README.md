@@ -21,6 +21,23 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 44:
+
+#### Intern Work:
+- Fix the bugs present in the script.
+- Read about jenkins and how to use in webb servers.
+
+#### Interview Preparation:
+- No Progress Today.
+
+### Day 43:
+
+#### Intern Work:
+- Testing the script in different conditions.
+
+#### Interview Preparation:
+- No Progress Today.
+
 ### Day 42:(Sunday)
 
 #### Interview Preparation:
