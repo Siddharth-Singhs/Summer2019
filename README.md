@@ -21,11 +21,33 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 46:
+
+#### Intern Work:
+- Finally internet explore is needed for the payment script.
+- Working on payment script for internet explore.
+- Many feature of selenium does not work on internet explore.So this script can take time to build.
+
+#### Interview Preparation:
+- No Progress Today.
+
+
+### Day 45:
+
+#### Intern Work:
+- Worked on payment script in internet explore.
+- Internet explore selenium does not work prefectly.
+- So tried different browser other than chrome and firefox.
+
+#### Interview Preparation:
+- No Progress Today.
+
+
 ### Day 44:
 
 #### Intern Work:
 - Fix the bugs present in the script.
-- Read about jenkins and how to use in webb servers.
+- Read about jenkins and how to use in web servers.
 
 #### Interview Preparation:
 - No Progress Today.
