@@ -21,6 +21,23 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 49 (Sunday):
+
+#### Interview Preparation:
+- No progress today
+
+### Day 48 (Holiday):
+
+#### Interview Preparation:
+
+- Solved the problems related to hashing
+
+### Day 47:
+
+#### Intern Work:
+
+- Tested the script in various edge cases
+
 ### Day 46:
 
 #### Intern Work:
