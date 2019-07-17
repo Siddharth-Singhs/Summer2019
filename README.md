@@ -21,6 +21,39 @@ More task will added as soon as possible in details.
 
 ## Log:
 
+### Day 52:
+
+#### Intern Work:
+
+
+### Day 51:(Holiday)
+
+#### Interview Preparation:
+- Gave the coding test for placement
+
+### Day 50:
+
+#### Intern Work:
+
+- Released the package version 1.0.7 which contains network manager.
+
+### Day 49 (Sunday):
+
+#### Interview Preparation:
+- No progress today
+
+### Day 48 (Holiday):
+
+#### Interview Preparation:
+
+- Solved the problems related to hashing
+
+### Day 47:
+
+#### Intern Work:
+
+- Tested the script in various edge cases
+
 ### Day 46:
 
 #### Intern Work:
