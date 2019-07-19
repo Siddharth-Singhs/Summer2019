@@ -21,10 +21,23 @@ More task will added as soon as possible in details.
 
 ## Log:
 
-### Day 52:
+### Day 55:
 
 #### Intern Work:
+- Testing the script.
 
+#### Interview Preparation:
+- Solved the problems of geeksforgeeks.
+
+### Day 54:
+
+#### Intern Work:
+- Testing the script.
+
+### Day 53:
+
+#### Intern Work:
+- Testing the script.
 
 ### Day 51:(Holiday)
 
