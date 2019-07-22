@@ -5,10 +5,10 @@
 
 ## Goals
 <br>To utilise the summer vacation to do productive work.
-- Improve the Data structure and Algorithm. &#9744;
-- Give atleast 4 hours to data structure &#9744;
+- Improve the Data structure and Algorithm. &#9745;
+- Give atleast 4 hours to data structure &#9745;
 - Complete the tress till the week end. &#9745;
-- Complete the daily objective. &#9744;
+- Complete the daily objective. &#9745;
 - Increase the model accuracy till week end. &#9745;
 - Deploy the script to Amazon Web Services. &#9745;
 - Complete the database part for storing the scrapped data. &#9745;
@@ -17,11 +17,11 @@
 
 More task will added as soon as possible in details.
 
-## Course:
+## Intern is Over on 20/07/19
 
 ## Log:
 
-### Day 55:
+### Day 55: (LAST DAY)
 
 #### Intern Work:
 - Testing the script.
